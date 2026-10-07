@@ -25,20 +25,41 @@
     "href": "blog.html",
     "title": "Blog",
     "section": "",
-    "text": "Blog\nThis page will host future assignments.\n\nAssignment 1 Blog Post"
+    "text": "Blog\nThis page will host future assignments.\n\n\nAssignment 1\n\nAssignment 1 Blog Post"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "About this site\nThis website is for class GECON-7201. Please navigate to home"
   },
   {
     "objectID": "Assignment 1.html",
     "href": "Assignment 1.html",
     "title": "Assignment 1",
     "section": "",
-    "text": "Assignment 1 Blog Post\nTesting"
+    "text": "Assignment 1 Blog Post\nHere is my reflection for assignment 1.\nDownload the PDF"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Currently working at CPKC\nMAE Qualifying Year student, University of Winnipeg\nLab Instructor for Math Econ (Fall 2026)\n\n\n\n\nMy name is Minh Le, full name Trinh Nhat Minh Le. I came from Vietnam and I was born in 1994. I am a graduate student in the MAE Qualifying Year program, and a full-time employee at CPKC railway at the same time. I am about to become a father this November."
+  },
+  {
+    "objectID": "index.html#credentials",
+    "href": "index.html#credentials",
+    "title": "Home",
+    "section": "",
+    "text": "Currently working at CPKC\nMAE Qualifying Year student, University of Winnipeg\nLab Instructor for Math Econ (Fall 2026)"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Home",
+    "section": "",
+    "text": "My name is Minh Le, full name Trinh Nhat Minh Le. I came from Vietnam and I was born in 1994. I am a graduate student in the MAE Qualifying Year program, and a full-time employee at CPKC railway at the same time. I am about to become a father this November."
   }
 ]
