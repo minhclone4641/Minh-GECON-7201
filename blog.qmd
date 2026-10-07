@@ -7,4 +7,4 @@ title: "Blog"
 This page will host future assignments.
 
 # Assignment 1
-- [Assignment 1 Blog Post](assignment1.html)
+- [Assignment 1 Blog Post](assignment 1.html)
