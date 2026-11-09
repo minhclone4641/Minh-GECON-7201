@@ -9,3 +9,6 @@ This page will host future assignments.
 # Assignment 1
 
 -   [Assignment 1 Blog Post](Assignment1.html)
+
+# Assignment 2
+-   [Assignment 2 Blog Post](Assignment2.html)
