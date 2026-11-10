@@ -25,7 +25,7 @@
     "href": "blog.html",
     "title": "Blog",
     "section": "",
-    "text": "Blog\nThis page will host future assignments.\n\n\nAssignment 1\n\nAssignment 1 Blog Post"
+    "text": "Blog\nThis page will host future assignments.\n\n\nAssignment 1\n\nAssignment 1 Blog Post\n\n\n\nAssignment 2\n\nAssignment 2 Blog Post"
   },
   {
     "objectID": "about.html",
@@ -75,5 +75,33 @@
     "title": "Assignment 1",
     "section": "",
     "text": "Assignment 1 Blog Post\nHere is my reflection for assignment 1.\nDownload the PDF"
+  },
+  {
+    "objectID": "assignment_2/econ_7201_assignment_2_your_name.html",
+    "href": "assignment_2/econ_7201_assignment_2_your_name.html",
+    "title": "ECON 7201\nApplied Econometrics",
+    "section": "",
+    "text": "November 5, 2026 at 11:59 PM"
+  },
+  {
+    "objectID": "assignment_2/econ_7201_assignment_2_your_name.html#due-date",
+    "href": "assignment_2/econ_7201_assignment_2_your_name.html#due-date",
+    "title": "ECON 7201\nApplied Econometrics",
+    "section": "",
+    "text": "November 5, 2026 at 11:59 PM"
+  },
+  {
+    "objectID": "assignment_2/econ_7201_assignment_2_your_name.html#directions",
+    "href": "assignment_2/econ_7201_assignment_2_your_name.html#directions",
+    "title": "ECON 7201\nApplied Econometrics",
+    "section": "Directions",
+    "text": "Directions\nAnswer all questions. Upload both a PDF and Quarto file to your website in a new blog post."
+  },
+  {
+    "objectID": "Assignment2.html",
+    "href": "Assignment2.html",
+    "title": "Assignment 2",
+    "section": "",
+    "text": "Assignment 2 Blog Post\nHere is my reflection for assignment 2.\nDownload the PDF"
   }
 ]
